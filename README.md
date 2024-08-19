@@ -1,2 +1,2 @@
-# WS_TS_5Energy_Clustering_Public
-WS_TS_5Energy_Clustering_Public
+# WS_Timeserial_Energy_Usage_Demand
+Timeseral Data Analysis_Energy Usage Demand
